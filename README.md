@@ -42,5 +42,33 @@ data and visualizations.
 # TryHackMe
 
 # CPTS
+1. Network Enumeration with Nmap
+2. Footprinting
+3. Information Gathering - Web Edition
+4. Vulnerability Assessment
+5. File Transfers
+6. Shells & Payloads
+7. Metasploit
+8. Password Attacks
+9. Attacking Common Services
+10. Pivoting, Tunneling, and Port Forwarding
+11. Active Directory Enumeration & Attacks
+12. Using Web Proxies
+13. Attacking Web Apps with Ffuf
+14. Login Brute Forcing
+15. SQL Injection Fundamentals
+16. SQL Map Essentials
+17. XSS
+18. File Inclusion
+19. File Upload Attacks
+20. Command Injections
+21. Web Attacks
+22. Attacking Common Applications
+23. Linux Privilege Escalation
+24. Windows Privilege Escalation
+25. Documentation & Reporting
+26. Attacking Enterprise Networks
+27. Mock Exam and Boxes
+28. CPTS Certification Exam (Goal 13 Oct)
 
 # OSCP
